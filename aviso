@@ -1,0 +1,9 @@
+Você precisará das seguintes bibliotecas para rodar o chatbot:
+
+    tkinter: Para a interface gráfica.
+    openai: Para integrar o GPT-3 ou GPT-4 (ou outro modelo da OpenAI).
+    json (se for usar um arquivo para armazenar os conteúdos).
+
+Para instalar o openai, use o comando:
+
+pip install openai
